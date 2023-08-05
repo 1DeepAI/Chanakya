@@ -23,4 +23,18 @@ We welcome contributions from open-source community. Be sure to follow our contr
 LICENSE
 This respository is open-source and available under the MIT License. You are free to use, modify and distribute the code as per the license terms
 Happy coding! Keep practicing and honing your Python skills
+#PythonPrograms
+#Algorithms
+#MathCalculations
+#StringManipulations
+#Isogram
+#ReuleauxTetrahedron
+#PriorityQueue
+#AmicablePairs
+#ReuleauxPentagon
+#HollowNumberDiamond
+#SudokuSolution
+#ExcessKCode
+#PangrammaticLipogram
+#ReuleauxOctahedron
 # 1DeepAI # Chanakya # Siddhartha 
